@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="header.png" alt="Header" />
+</div>
+
 # 💫 About Me:
 Recent Data Science graduate from George Washington University, blending machine learning, forecasting, and visualization to transform raw data into stories and solutions. Passionate about exploring new tools and methods, with a focus on turning complex datasets into insights that drive real-world impact.
 
